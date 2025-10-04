@@ -42,8 +42,6 @@ The project utilizes the Global Superstore sales dataset, which contains detaile
 
 The dashboard is designed around critical sales and profit metrics, providing a single-pane-of-glass view of business performance.
 
-## 📊 Key Performance Indicators (KPIs) and Features  
-
 | Feature / Metric | Visualization Type | Purpose |
 |------------------|---------------------|---------|
 | Key Performance Indicators (KPIs) | Card Visuals | Displays **Total Sales, Total Profit, Profit Ratio, Total Orders, and Total Customers**. Provides an instant snapshot of overall business health. |
@@ -53,3 +51,55 @@ The dashboard is designed around critical sales and profit metrics, providing a 
 | Customer & Segment Analysis | Doughnut / Bar Chart | Breaks down sales and profit by Customer Segment (Consumer, Corporate, Home Office) to support targeted strategies. |
 | Logistics Efficiency | Bar Chart | Visualizes Sales by Ship Mode and Average Shipping Time to detect logistical bottlenecks and cost-saving opportunities. |
 | Interactivity | Slicers / Filters | Enables users to dynamically filter visuals by Year, Region, Category, and Segment for deeper analysis. |
+
+
+## Why These KPIs Were Chosen
+The selected KPIs provide a holistic view of sales performance, profitability, and operational efficiency. Metrics like Total Sales, Profit, and Profit Ratio directly measure financial success, while Customer and Segment Analysis highlight revenue drivers. Product and Geographical Analysis help identify areas of growth and underperformance, guiding sales and marketing strategies. Finally, Logistics and Shipping Metrics ensure operational efficiency by uncovering bottlenecks and optimizing delivery. Together, these KPIs empower stakeholders to make data-driven decisions that improve profitability and growth.
+
+## Business Insights from Dashboard
+
+From analyzing the Global Superstore dataset using the interactive Power BI dashboard, the following insights were discovered:
+
+**Regional Performance:**
+
+The US and Europe generated the highest sales, while some regions in APAC had strong growth potential but lower profitability.
+
+**Profitability by Category:**
+
+Technology and Office Supplies were the most profitable categories.
+
+Furniture, despite high sales, showed lower profit margins, suggesting cost inefficiencies.
+
+**Customer Segments:**
+
+The Consumer segment contributed the largest share of sales.
+
+Corporate customers provided steadier profit margins compared to other segments.
+
+**Impact of Discounts:**
+
+Excessive discounts in certain sub-categories (like Furniture) led to reduced profitability, proving that discounts do not always drive profit growth.
+
+**Shipping Efficiency:**
+
+Same Day and First Class shipping modes were costlier but not always more profitable.
+
+Standard Class remained the most frequently used and most efficient shipping method.
+
+**Year-over-Year Growth:**
+
+The business showed consistent growth in sales, but profitability did not always scale at the same rate, indicating opportunities for cost optimization.
+
+## Final Conclusion
+
+This project successfully demonstrates how Excel and Power BI can be used together to transform raw data into actionable business insights. By cleaning and preparing the dataset in Excel and building an interactive dashboard in Power BI, stakeholders can now monitor sales, profitability, customer segments, product performance, and logistics efficiency in one place.
+
+**Key Conclusions**
+
+**High Sales ≠ High Profit:** Certain categories like Furniture generated strong sales but low profit margins, highlighting cost inefficiencies.
+
+**Discounts Reduce Profitability:** Heavy discounting negatively impacted profit in several sub-categories, proving that discounts should be strategically applied.
+
+**Regional Opportunities:** North America and Europe led sales, while APAC showed potential growth opportunities with the right strategies.
+
+**Shipping Impact:** Standard shipping was most cost-efficient, while premium modes increased costs without proportional profit gain.
