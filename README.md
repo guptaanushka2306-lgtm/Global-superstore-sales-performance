@@ -15,25 +15,26 @@ The project utilizes the Global Superstore sales dataset, which contains detaile
 
 ## Data Cleaning & Processing
 
-Before building the dashboard, the dataset was cleaned and pre-processed in Microsoft Excel to ensure accuracy and consistency. The main steps included:
+- Before building the dashboard, the dataset was cleaned and pre-processed in Microsoft Excel to ensure accuracy and consistency. The main steps included:
 
-Removing duplicate and irrelevant records.
+- Removing duplicate and irrelevant records.
 
-Handling missing and null values.
+- Handling missing and null values.
 
-Standardizing formats (dates, currency, category names).
+- Standardizing formats (dates, currency, category names).
 
-Creating calculated fields such as profit and discount impact.
+- Creating calculated fields such as profit and discount impact.
 
-Ensuring data accuracy and consistency before importing into Power BI.
+- Ensuring data accuracy and consistency before importing into Power BI.
 
 # Tools and Technologies
 
-## Excel:
-(for data cleaning and preprocessing)
+## Excel: (for data cleaning and preprocessing)
 
-## Power BI:
-(for visualization and dashboard creation)
+## Power BI: (for visualization and dashboard creation)
 
-## Dataset:
-Global Superstore (50K+ records)
+## Dataset: Global Superstore (50K+ records)
+
+Dashboard Interaction <a href
+
+
