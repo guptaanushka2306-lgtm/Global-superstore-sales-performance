@@ -58,48 +58,48 @@ The selected KPIs provide a holistic view of sales performance, profitability, a
 
 ## Business Insights from Dashboard
 
-From analyzing the Global Superstore dataset using the interactive Power BI dashboard, the following insights were discovered:
+- From analyzing the Global Superstore dataset using the interactive Power BI dashboard, the following insights were discovered:
 
 **Regional Performance:**
 
-The US and Europe generated the highest sales, while some regions in APAC had strong growth potential but lower profitability.
+- The US and Europe generated the highest sales, while some regions in APAC had strong growth potential but lower profitability.
 
 **Profitability by Category:**
 
-Technology and Office Supplies were the most profitable categories.
+- Technology and Office Supplies were the most profitable categories.
 
-Furniture, despite high sales, showed lower profit margins, suggesting cost inefficiencies.
+- Furniture, despite high sales, showed lower profit margins, suggesting cost inefficiencies.
 
 **Customer Segments:**
 
-The Consumer segment contributed the largest share of sales.
+- The Consumer segment contributed the largest share of sales.
 
-Corporate customers provided steadier profit margins compared to other segments.
+- Corporate customers provided steadier profit margins compared to other segments.
 
 **Impact of Discounts:**
 
-Excessive discounts in certain sub-categories (like Furniture) led to reduced profitability, proving that discounts do not always drive profit growth.
+- Excessive discounts in certain sub-categories (like Furniture) led to reduced profitability, proving that discounts do not always drive profit growth.
 
 **Shipping Efficiency:**
 
-Same Day and First Class shipping modes were costlier but not always more profitable.
+- Same Day and First Class shipping modes were costlier but not always more profitable.
 
-Standard Class remained the most frequently used and most efficient shipping method.
+- Standard Class remained the most frequently used and most efficient shipping method.
 
 **Year-over-Year Growth:**
 
-The business showed consistent growth in sales, but profitability did not always scale at the same rate, indicating opportunities for cost optimization.
+- The business showed consistent growth in sales, but profitability did not always scale at the same rate, indicating opportunities for cost optimization.
 
 ## Final Conclusion
 
-This project successfully demonstrates how Excel and Power BI can be used together to transform raw data into actionable business insights. By cleaning and preparing the dataset in Excel and building an interactive dashboard in Power BI, stakeholders can now monitor sales, profitability, customer segments, product performance, and logistics efficiency in one place.
+- This project successfully demonstrates how Excel and Power BI can be used together to transform raw data into actionable business insights. By cleaning and preparing the dataset in Excel and building an interactive dashboard in Power BI, stakeholders can now monitor sales, profitability, customer segments, product performance, and logistics efficiency in one place.
 
 **Key Conclusions**
 
-**High Sales ≠ High Profit:** Certain categories like Furniture generated strong sales but low profit margins, highlighting cost inefficiencies.
+- **High Sales ≠ High Profit:** Certain categories like Furniture generated strong sales but low profit margins, highlighting cost inefficiencies.
 
-**Discounts Reduce Profitability:** Heavy discounting negatively impacted profit in several sub-categories, proving that discounts should be strategically applied.
+- **Discounts Reduce Profitability:** Heavy discounting negatively impacted profit in several sub-categories, proving that discounts should be strategically applied.
 
-**Regional Opportunities:** North America and Europe led sales, while APAC showed potential growth opportunities with the right strategies.
+- **Regional Opportunities:** North America and Europe led sales, while APAC showed potential growth opportunities with the right strategies.
 
-**Shipping Impact:** Standard shipping was most cost-efficient, while premium modes increased costs without proportional profit gain.
+- **Shipping Impact:** Standard shipping was most cost-efficient, while premium modes increased costs without proportional profit gain.
