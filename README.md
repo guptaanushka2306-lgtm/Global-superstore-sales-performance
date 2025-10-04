@@ -27,10 +27,13 @@ Creating calculated fields such as profit and discount impact.
 
 Ensuring data accuracy and consistency before importing into Power BI.
 
-#Tools & Technologies
+# Tools and Technologies
 
-##Excel: (for data cleaning and preprocessing)
+## Excel:
+(for data cleaning and preprocessing)
 
-##Power BI: (for visualization and dashboard creation)
+## Power BI:
+(for visualization and dashboard creation)
 
-##Dataset: Global Superstore (50K+ records)
+## Dataset:
+Global Superstore (50K+ records)
