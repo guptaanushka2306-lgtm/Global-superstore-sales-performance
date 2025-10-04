@@ -36,5 +36,5 @@ The project utilizes the Global Superstore sales dataset, which contains detaile
 ## Dataset: Global Superstore (50K+ records)
 
 Dashboard Interaction <a href="https://github.com/guptaanushka2306-lgtm/Global-superstore-sales-performance/blob/main/tmp_f582b1a8-91be-45f5-9e5c-98e5585c7cea.png">View Dashboard</a>
-
+<a href = "https://github.com/guptaanushka2306-lgtm/Global-superstore-sales-performance/blob/main/IMG-20251004-WA0000.jpg">View Dashboards</a>
 
