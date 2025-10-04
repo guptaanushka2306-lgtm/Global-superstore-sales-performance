@@ -3,12 +3,12 @@ Global Superstore Sales Performance Analysis and Visualization Dashboard
 
 
 ## Project Objective
-The primary objective of this project is to develop a comprehensive and interactive Business Intelligence (BI) dashboard to analyze the historical sales and profitability of the Global Superstore.
+- The primary objective of this project is to develop a comprehensive and interactive Business Intelligence (BI) dashboard to analyze the historical sales and profitability of the Global Superstore.
 The dashboard aims to provide key stakeholders, such as Sales Managers and Executives, with actionable insights to monitor performance, identify growth opportunities, and optimize operational and 
 sales strategies on a global scale.The dataset was first cleaned and pre-processed in Microsoft Excel to ensure accuracy and consistency before building the interactive dashboard in Power BI.
 
 ## Data Source
-The project utilizes the Global Superstore sales dataset, which contains detailed transaction records including sales figures, profit margins, product categories and sub-categories, customer details, shipping logistics, and geographical data spanning multiple years. This rich dataset provides a comprehensive view of sales and operations, making it suitable for analyzing performance, profitability, and business trends at a global scale.
+- The project utilizes the Global Superstore sales dataset, which contains detailed transaction records including sales figures, profit margins, product categories and sub-categories, customer details, shipping logistics, and geographical data spanning multiple years. This rich dataset provides a comprehensive view of sales and operations, making it suitable for analyzing performance, profitability, and business trends at a global scale.
 
 ## Dataset Used
 - <a href="https://github.com/guptaanushka2306-lgtm/Global-superstore-sales-performance/blob/main/Global_Superstore2.csv.zip">Dataset</a>
@@ -29,18 +29,18 @@ The project utilizes the Global Superstore sales dataset, which contains detaile
 
 # Tools and Technologies
 
-**Excel:** (for data cleaning and preprocessing)
+- **Excel:** (for data cleaning and preprocessing)
 
- **Power BI:** (for visualization and dashboard creation)
+-  **Power BI:** (for visualization and dashboard creation)
 
-**Dataset:** Global Superstore (50K+ records)
+- **Dataset:** Global Superstore (50K+ records)
 
 **Dashboard Interaction** <a href="https://github.com/guptaanushka2306-lgtm/Global-superstore-sales-performance/blob/main/tmp_f582b1a8-91be-45f5-9e5c-98e5585c7cea.png">View Dashboard</a>
   <a href = "https://github.com/guptaanushka2306-lgtm/Global-superstore-sales-performance/blob/main/IMG-20251004-WA0000.jpg">View Dashboards</a>
 
  ## Key Performance Indicators (KPIs) and Features
 
-The dashboard is designed around critical sales and profit metrics, providing a single-pane-of-glass view of business performance.
+- The dashboard is designed around critical sales and profit metrics, providing a single-pane-of-glass view of business performance.
 
 | Feature / Metric | Visualization Type | Purpose |
 |------------------|---------------------|---------|
@@ -52,9 +52,14 @@ The dashboard is designed around critical sales and profit metrics, providing a 
 | Logistics Efficiency | Bar Chart | Visualizes Sales by Ship Mode and Average Shipping Time to detect logistical bottlenecks and cost-saving opportunities. |
 | Interactivity | Slicers / Filters | Enables users to dynamically filter visuals by Year, Region, Category, and Segment for deeper analysis. |
 
+## Dashboard 
+<img width="1319" height="735" alt="tmp_f582b1a8-91be-45f5-9e5c-98e5585c7cea" src="https://github.com/user-attachments/assets/0c35e3b4-3fa3-4d71-9596-ba6543220299" />
+![IMG-20251004-WA0000](https://github.com/user-attachments/assets/a6053f54-c450-4f50-91f5-0634fd0b214e)
+
+
 
 ## Why These KPIs Were Chosen
-The selected KPIs provide a holistic view of sales performance, profitability, and operational efficiency. Metrics like Total Sales, Profit, and Profit Ratio directly measure financial success, while Customer and Segment Analysis highlight revenue drivers. Product and Geographical Analysis help identify areas of growth and underperformance, guiding sales and marketing strategies. Finally, Logistics and Shipping Metrics ensure operational efficiency by uncovering bottlenecks and optimizing delivery. Together, these KPIs empower stakeholders to make data-driven decisions that improve profitability and growth.
+- The selected KPIs provide a holistic view of sales performance, profitability, and operational efficiency. Metrics like Total Sales, Profit, and Profit Ratio directly measure financial success, while Customer and Segment Analysis highlight revenue drivers. Product and Geographical Analysis help identify areas of growth and underperformance, guiding sales and marketing strategies. Finally, Logistics and Shipping Metrics ensure operational efficiency by uncovering bottlenecks and optimizing delivery. Together, these KPIs empower stakeholders to make data-driven decisions that improve profitability and growth.
 
 ## Business Insights from Dashboard
 
