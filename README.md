@@ -42,18 +42,14 @@ The project utilizes the Global Superstore sales dataset, which contains detaile
 
 The dashboard is designed around critical sales and profit metrics, providing a single-pane-of-glass view of business performance.
 
-**Feature / Metric | Visualization | Type	Purpose**
-- Key Performance Indicators (KPIs)	| Card Visuals | Displays Total Sales,Total Profit, Profit Ratio, Total Orders, and Total Customers. Provides an instant snapshot of overall business health.
+## 📊 Key Performance Indicators (KPIs) and Features  
 
-- Sales and Profit Trend | Line / Area Chart | Tracks sales and profit over time (Year, Quarter, Month) to identify seasonality, trends, and growth rates.
-
-- Geographical Analysis | Map Visualization | Shows sales and profit distribution across Markets, Regions, and Countries to highlight top-performing and underperforming areas.
-
-- Product Performance | Bar / Tree Map Chart | Analyzes Sales and Profit by Category and Sub-Category to identify profitable products and loss-making items.
-
-- Customer & Segment Analysis | Doughnut / Bar Chart | Breaks down sales and profit by Customer Segment (Consumer, Corporate, Home Office) to support targeted strategies.
-
-- Logistics Efficiency | Bar Chart | Visualizes Sales by Ship Mode and Average Shipping Time to detect logistical bottlenecks and cost-saving opportunities.
-
-- Interactivity | Slicers / Filters | Enables users to dynamically filter visuals by Year, Region, Category, and Segment for deeper analysis.
-
+| Feature / Metric | Visualization Type | Purpose |
+|------------------|---------------------|---------|
+| Key Performance Indicators (KPIs) | Card Visuals | Displays **Total Sales, Total Profit, Profit Ratio, Total Orders, and Total Customers**. Provides an instant snapshot of overall business health. |
+| Sales and Profit Trend | Line / Area Chart | Tracks sales and profit over time (Year, Quarter, Month) to identify seasonality, trends, and growth rates. |
+| Geographical Analysis | Map Visualization | Shows sales and profit distribution across Markets, Regions, and Countries to highlight top-performing and underperforming areas. |
+| Product Performance | Bar / Tree Map Chart | Analyzes Sales and Profit by Category and Sub-Category to identify profitable products and loss-making items. |
+| Customer & Segment Analysis | Doughnut / Bar Chart | Breaks down sales and profit by Customer Segment (Consumer, Corporate, Home Office) to support targeted strategies. |
+| Logistics Efficiency | Bar Chart | Visualizes Sales by Ship Mode and Average Shipping Time to detect logistical bottlenecks and cost-saving opportunities. |
+| Interactivity | Slicers / Filters | Enables users to dynamically filter visuals by Year, Region, Category, and Segment for deeper analysis. |
