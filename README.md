@@ -1,4 +1,4 @@
- Project Title
+Project Title
 Global Superstore Sales Performance Analysis and Visualization Dashboard
 
 Project Objective
